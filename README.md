@@ -28,7 +28,6 @@ This Movie Application allows users to explore movies and TV shows by listing po
 
 The application uses [The Movie Database API](https://api.themoviedb.org) as its primary source of movie and TV show data.
 
-## 🎨 Preview
 
 ## :art: Preview
 
