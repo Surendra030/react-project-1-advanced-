@@ -59,7 +59,7 @@ const Navbar = () => {
           />
 
           {/* Title */}
-          <h3 className='text-slate-800 dark:text-slate-100 font-medium text-xl mr-8'>7anime</h3>
+          <h3 className='text-slate-800 dark:text-slate-100 font-medium text-xl mr-8'>CineFlicks</h3>
 
           {/* Menu */}
           <div className='md:flex hidden items-center space-x-7'>
