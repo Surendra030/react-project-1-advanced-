@@ -17,10 +17,10 @@ This Movie Application allows users to explore movies and TV shows by listing po
 - This app integrates a video API service, similar to a paid API experience, to allow users to watch full-length movies directly within the app. This feature is powered by VidSrc, a free video API provider.
 
 ### :To View Trailer:
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/Trailer.png" alt="movie-list" />
+<img src="https://github.com/Surendra030/react-project-1-advanced-/blob/main/public/screenshot/Trailer.png" alt="movie-list" />
 
 ### :To Access Full Movie:
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/WatchMovie.png" alt="movie-list" />
+<img src="https://github.com/Surendra030/react-project-1-advanced-/blob/main/public/screenshot/WatchMovie.png" alt="movie-list" />
 
 
 
@@ -32,9 +32,9 @@ The application uses [The Movie Database API](https://api.themoviedb.org) as its
 
 ## :art: Preview
 
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-list.png" alt="movie-list" />
+<img src="https://github.com/Surendra030/react-project-1-advanced-/blob/main/public/screenshot/movie-list.png" alt="movie-list" />
 
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-detail.jpeg" alt="movie-detail" />
+<img src="https://github.com/Surendra030/react-project-1-advanced-/blob/main/public/screenshot/movie-detail.jpeg" alt="movie-detail" />
 
 <br>
 ## 🚀 Technologies Used
