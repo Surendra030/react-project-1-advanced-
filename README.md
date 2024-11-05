@@ -1,30 +1,34 @@
-<h1 align="center">Movie Application</h1>
+# Movie Application
 
-<p align="center">
-  <a href="https://faridnugraha-movie.netlify.app/">DEMO</a>
-</p>
+[Live Demo](https://cine-flicks-react-based-website.netlify.app/)
 
-<br>
+## 🎯 About
 
-## :dart: About
+This Movie Application allows users to explore movies and TV shows by listing popular, trending, and upcoming content. Created as a project to practice using modern frontend technologies, it leverages React, TypeScript, Vite, React Router, and Redux Toolkit for a smooth and interactive experience.
 
-<p>This is a Web Movie Application, I create this app for learn develop application using React, Typescript, Vite, React Router, and Redux Toolkit</p>
+## 💎 Features
 
-<br>
+- Browse lists of movies and TV shows
+- Search functionality for finding specific movies or shows
+- Detailed views for each movie/show, including credits, reviews, and trailers
+- Watch full-length movies directly in the app (powered by an integrated video API)
 
-## :gem: Features
+## ⚠️ Note
+- This app integrates a video API service, similar to a paid API experience, to allow users to watch full-length movies directly within the app. This feature is powered by VidSrc, a free video API provider.
 
-- Movie/TV show list
-- Search movie/tv show
-- Movie/TV show detail
+### :To View Trailer:
+<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/Trailer.png" alt="movie-list" />
 
-<br>
+### :To Access Full Movie:
+<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/WatchMovie.png" alt="movie-list" />
 
-## :floppy_disk: Source Data
 
-[Movie Database API](https://api.themoviedb.org)
 
-<br>
+## 📦 Data Source
+
+The application uses [The Movie Database API](https://api.themoviedb.org) as its primary source of movie and TV show data.
+
+## 🎨 Preview
 
 ## :art: Preview
 
@@ -33,31 +37,31 @@
 <img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-detail.jpeg" alt="movie-detail" />
 
 <br>
+## 🚀 Technologies Used
 
-## :rocket: Technologies
+This project is built with:
 
-The following technology were used in this project:
+- [React](https://react.dev/) - for component-based UI development
+- [TypeScript](https://www.typescriptlang.org/) - providing type safety
+- [Redux Toolkit](https://redux-toolkit.js.org/) - for state management
+- [Tailwind CSS](https://tailwindcss.com/) - for utility-first CSS styling
+- [Vite](https://vitejs.dev/) - for fast bundling and development server
 
-- [React JS](https://react.dev/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
 
-<br>
+## 🏁 Getting Started
 
-## :checkered_flag: Installation
+To set up and run the project locally, follow these steps:
 
 ```bash
 # Install dependencies
-$ pnpm install
+pnpm install
 
-# Run on development
-$ pnpm dev
+# Start the development server
+pnpm dev
 
-# Build application
-$ pnpm run
+# Build the project for production
+pnpm build
 
-# Run on production
-$ pnpm preview
-```
+# Preview the production build
+pnpm preview
+
